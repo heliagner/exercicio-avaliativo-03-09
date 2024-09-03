@@ -1,3 +1,5 @@
+const model = require("../models/rental.js");
+
 const db = [];
 
 const store = (body) => {

@@ -1,3 +1,5 @@
+const model = require("../models/student.js");
+
 const db = [];
 
 const store = (body) => {
